@@ -1,0 +1,17 @@
+asgiref
+certifi
+charset-normalizer
+Django
+django-formtools
+django-jazzmin
+django-js-asset
+django-phonenumber-field
+django-tinymce
+django-two-factor-auth
+idna
+pillow
+pip
+qrcode
+requests
+sqlparse
+urllib3
